@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  *
- * @author srisreed
+ *
  */
 public class Node implements Comparable<Node> {
     

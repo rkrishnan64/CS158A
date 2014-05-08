@@ -9,7 +9,7 @@ import java.util.Collections;
 
 /**
  *
- * @author T-CATS
+ *
  */
 public class Simulator {
     private ArrayList<Node2> fred;

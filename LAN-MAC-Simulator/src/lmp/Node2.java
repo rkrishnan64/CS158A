@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  *
- * @author T-CATS
+ *
  */
 public class Node2 implements Comparable<Node2> {
         private static final double BACKOFF_CONSTANT = 51.2; // μseconds! BackOff Constant is the constant

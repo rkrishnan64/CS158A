@@ -2,9 +2,7 @@ package lmp;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author T-CAPS
+
  */
 public class LMP {
     private static final int NUM_OF_NODES = 5;
