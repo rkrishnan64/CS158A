@@ -30,7 +30,7 @@ public class Network
             node = new Node(i, alambda);
             // add stations to arraylist
             nodes.add(node);
-       n
+
             nodes.get(i).send(alambda);
         }
     }
